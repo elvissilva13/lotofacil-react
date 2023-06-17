@@ -1,0 +1,12 @@
+.App{
+    height: 70%;
+    font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif;
+    background: rgba(27, 26, 26, 0.993);
+    border-radius: 25px 25px;
+  }
+
+.App h1{
+    padding-top: 23px;
+    text-align: center;
+}
+

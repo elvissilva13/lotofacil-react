@@ -61,12 +61,12 @@
 }
 @media screen and (max-width: 600px) {
     .container{
-        width: 100%;
+        width: 80%;
         display: inline-block;
     }
     .container ul {
       float: none;
-      width: 100%;
+      width: 40%;
       margin:auto;
       padding: auto;
     }

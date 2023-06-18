@@ -59,15 +59,14 @@
     text-align: center;
     
 }
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 400px) {
     .container{
-        width: 100%;
+      min-width: 100%;
         display: inline-block;
     }
     .container ul {
-      float: none;
-      width: 40%;
-      margin:auto;
-      padding: auto;
+      display: flex;
+      width: 80%;
+  
     }
 }

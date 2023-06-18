@@ -65,7 +65,7 @@
         display: inline-block;
     }
     .container ul {
-      display: flex;
+     float: none;
       width: 80%;
   
     }
